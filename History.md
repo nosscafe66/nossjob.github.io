@@ -15,7 +15,6 @@
 |  名前  |  noss  |
 |  Twitter  |  [@tr08327438](https://twitter.com/tr08327438)  |
 |  GitHub  |  [@nosscafe66](https://github.com/nosscafe66)  |
-|  note  |  [@nosscafe66](https://note.com/nosscafe66)  |
 |  Instagram  |  [@nosscafe66](https://www.instagram.com/yuto.noss/)  |
 |  お問合せ  |  [TwitterよりDM下さい](https://twitter.com/tr08327438)  |
 
