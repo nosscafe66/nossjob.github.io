@@ -15,7 +15,7 @@
 |  名前  |  noss  |
 |  Twitter  |  [@tr08327438](https://twitter.com/tr08327438)  |
 |  GitHub  |  [@nosscafe66](https://github.com/nosscafe66)  |
-|  Instagram  |  [@nosscafe66](https://www.instagram.com/yuto.noss/)  |
+|  Qiita  |  [@nosscafe66](https://qiita.com/nooosss)  |
 |  お問合せ  |  [TwitterよりDM下さい](https://twitter.com/tr08327438)  |
 
 ## ■職務経歴(サマリー)
@@ -27,6 +27,8 @@
 
 ### ■職務経歴(詳細)
 ### フューチャーテクノロジー・コンサルティング株式会社(2022/05〜現在)
+
+- - -
 ### Project - 金融事業の開発支援業務
 - Abinitioを用いたメタデータ運用の開発支援業務
 
@@ -34,6 +36,8 @@
 - Abinitioを用いた、メタデータ運用ツールの開発、運用手順書作成
     - 開発チームとメタデータ運用チーム内で使用する運用手順書作成
     - Abinitioを用いたdml生成ツールの開発
+
+- - - 
 
 ### Project - 医療・介護データ等の解析基盤の開発及び情報データベースシステム更改:業務アプリ における共通部品・ツールおよび、運用管理ツールの開発
 ### 受託開発企業でのAP基盤開発チームでバックエンド担当。
@@ -72,6 +76,9 @@ PySpark,
 pl/pgsql,
 VBA,
 Bat
+
+
+- - -
 
 ### Project - 製薬業界向け営業支援システムのデータマート構築および営業支援システムバックエンド開発業務
 ### RestAPI開発・データマートの構築関連のバックエンドエンジニア
@@ -112,6 +119,8 @@ Python,
 Sql,
 ShellScript
 
+- - -
+
 ### Project - データ分析基盤(稼働中)において、新規テナント対応(分析データ追加)
 データ分析基盤(稼働中)において、新規テナント対応(分析データ追加)を実施。
 詳細設計/開発/試験
@@ -137,6 +146,8 @@ MySQL
 
 #### ■その他ツール
 Git、Slack、Jira、Confluence、SVN、Subversion、Apache AirFlow
+
+- - -
 
 ### ■個人学習
 > ①Pythonでの株価予測ツールの開発
